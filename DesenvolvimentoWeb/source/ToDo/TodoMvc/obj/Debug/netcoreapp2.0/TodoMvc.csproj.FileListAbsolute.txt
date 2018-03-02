@@ -1,0 +1,16 @@
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.csproj.CoreCompileInputs.cache
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.AssemblyInfoInputs.cache
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.AssemblyInfo.cs
+c:/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.csproj.CoreCompileInputs.cache
+c:/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+c:/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.AssemblyInfoInputs.cache
+c:/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.AssemblyInfo.cs
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/app.db
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/TodoMvc.deps.json
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/TodoMvc.runtimeconfig.json
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/TodoMvc.runtimeconfig.dev.json
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/TodoMvc.dll
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/bin/Debug/netcoreapp2.0/TodoMvc.pdb
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.dll
+/mnt/c/Users/opet/Documents/github/DesenvolvimentoWeb/source/ToDo/TodoMvc/obj/Debug/netcoreapp2.0/TodoMvc.pdb
